@@ -1,0 +1,4 @@
+variables:
+- team: nac-declarative-pipeline-12-5-2022
+- admin-user: nchoudhury-cb-admin
+- manager-user: nchoudhury-cb
